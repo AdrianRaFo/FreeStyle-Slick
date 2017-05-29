@@ -1,4 +1,4 @@
-name := "frees-slick"
+name := "free-slick"
 
 version := "1.0"
 
