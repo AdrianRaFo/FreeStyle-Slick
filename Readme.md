@@ -1,4 +1,4 @@
-This project is an example of [Freestyle-Slick](http://frees.io/docs/integrations/slick/) integration with a Postgresql database
+This project is an example of [Freestyle-Slick](http://frees.io/docs/integrations/slick/) integration with a Postgresql database.
 
 ## Generate
 
@@ -10,7 +10,7 @@ To generate the file `Tables.scala` with the mapping you can execute `sbt slick-
 
 ### Schema
 
-To generate the schema you can run `Userdata.schema.create` first in main method.
+To generate the schema you can run `Tables.schema.create` first in the main method.
 
 
 ***Note***: Set your own user and password in `application.conf` and `build.sbt`.
