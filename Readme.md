@@ -10,7 +10,7 @@ To generate the file `Tables.scala` with the mapping you can execute `sbt slick-
 
 ### Schema
 
-To generate the schema you can run `Userdata.schema.create` first in the main method.
+To generate the schema you can run `Tables.schema.create` first in the main method.
 
 
 ***Note***: Set your own user and password in `application.conf` and `build.sbt`.
